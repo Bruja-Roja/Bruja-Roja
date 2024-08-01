@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Anything really (I'll answer if i know 🤷‍♀️)**
 
-- 📫 How to reach me **nesrine.saidoune94@gmail.cm**
+- 📫 How to reach me **bruja.roja94@gmail.com**
 
 - ⚡ Fun fact **I am lazy (much like every computer geek)**
  <br>
