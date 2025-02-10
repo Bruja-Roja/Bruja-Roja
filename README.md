@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/Bruja-Roja/Bruja-Roja/blob/main/header.png" alt="Your Image"></h1>
+<h1 align="center"><img src="https://github.com/Bruja-Roja/Bruja-Roja/blob/main/README_cover.jpg" alt="Your Image"></h1>
 <h3 align="center">A cute Data Engineer 🛠️</h3>
  <br>
 
